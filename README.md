@@ -5,12 +5,9 @@ My name is Muhamad Hilmy Haidar and you can call me Hilmy. I'am a coder who love
 -->
 
 <!-- Add statistics using anuraghazra/github-readme-stats package -->
-<div>
 [![Hilmy's github stats](https://github-readme-stats.vercel.app/api?username=mhilmyh)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-<div>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhilmyh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</div>
 
 - 📫 How to reach me: hilmyhaidar021@gmail.com
 - 🌟 [My Linkedin](https://www.linkedin.com/in/hilmy-haidar-344160184/)
