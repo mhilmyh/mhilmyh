@@ -4,6 +4,8 @@ My name is Muhamad Hilmy Haidar and you can call me Hilmy. I'am a coder who love
 **mhilmyh/mhilmyh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🌱 I’m currently learning javascript, c++ and c more ! Because i still hungry for it !
+<!-- Add statistics using anuraghazra/github-readme-stats package -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhilmyh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 - 📫 How to reach me: hilmyhaidar021@gmail.com
 - 🌟 [My Linkedin](https://www.linkedin.com/in/hilmy-haidar-344160184/)
