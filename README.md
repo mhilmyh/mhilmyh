@@ -1,4 +1,3 @@
-[![Hilmy's github stats](https://github-readme-stats.vercel.app/api?username=mhilmyh)](https://github.com/anuraghazra/github-readme-stats)
+![Hilmy's github stats](https://github-readme-stats.vercel.app/api?username=mhilmyh)
 
-- 📫 How to reach me: hilmyhaidar021@gmail.com
-- 🌟 [My Linkedin](https://www.linkedin.com/in/hilmy-haidar-344160184/)
+![github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=madjiebimaa&layout=compact)
